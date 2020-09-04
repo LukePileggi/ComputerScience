@@ -1,6 +1,6 @@
 # Unit 1: A Electronic Hardwear store
 
-Sorry Dr.Ruben, I couldn't write down what you typed on here, so I  have it mostly blank. Perhaps could you send me a copy of the hings that I have to write down in this area? Sorry again for your inconvenience.
+Sorry Dr.Ruben, I couldn't write down what you typed in this area, so I  have it mostly blank. Perhaps could you send me a copy of the hings that I have to write down in this area please? Sorry again for your inconvenience.
 
 
 ```.py
