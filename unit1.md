@@ -1,5 +1,8 @@
 # Unit 1: A Electronic Hardwear store
 
+Sorry Dr.Ruben, I couldn't write down what you typed on here, so I  have it mostly blank. Perhaps could you send me a copy of the hings that I have to write down in this area? Sorry again for your inconvenience.
+
+
 ```.py
 welcome_msg = "Welcome to Sakamoto's store"
 print(welcome_msg)
@@ -10,5 +13,3 @@ print('2. CPU $5')
 print('3. Motherboard $5')
 print('4. GPU $2')
 ```
-
-Sorry Dr.Ruben, I couldn't write down what you typed on here, so I  have it mostly blank. Also, I couldn't figure out how to do half of the programming because I can't program by my own. Could you teach me from the basics? Sorry for your inconvenience.
