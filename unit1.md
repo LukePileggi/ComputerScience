@@ -42,6 +42,7 @@ for trial in range(1000):
     elif 49 < number <60:
         counts[5] +=1
 
-for index, c in enumerate(counts):
-    print("number of {}s: {}, expected {}".format(index+1,c, 1000/6))
+    for index, c in enumerate(counts):
+    error = c - num_trial/6
+    print("Number of {}s: {}, expected {}, error {}".format(index+1,c, num_trial/6, error))
 ```
