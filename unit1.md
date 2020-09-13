@@ -7,6 +7,18 @@ There is a hardware store in Karuizawa. This store is quite old, Like 1000 years
 
 ### Justification of the solution
 ***Here we will write the design statement: what we will do, how, by when***
+We want to create a text besed applictaton which provides the functonality for our hardware store. The app should provide us the record of p
+urchases, categorisation of items, record of inventory, calculations of totals, and billing. We will develop the application with python because it id the software er are using in class at the moment. In comparisation to C++ or C, Python has a lean and simple programing syntax. In addition, Python has become the most popular programing language ofet the last few years. [1] Similaryly, Python hhas a large repository of libraries and documentation.
+
+T.E.L.O.S study: Technology, Economic, Legal, Organisational, Scheduling
+
+[1]Eastwood, B., 2020. The 10 Most Popular Programming Languages To Learn In 2020. [online] Northeastern University Graduate Programs. Available at: <https://www.northeastern.edu/graduate/blog/most-popular-programming-languages/> [Accessed 13 September 2020].
+
+## Criteria for success
+1. Provifes clear feedback to user (usibility)
+1. **There are no bugs in the application**
+1. The application should allow to calculate the total and begining
+1. Secure application: It allows user login/authentication
 
 ## Development
 
