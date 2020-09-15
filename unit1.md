@@ -59,3 +59,4 @@ for trial in range(1000):
     print("Number of {}s: {}, expected {}, error {}".format(index+1,c, num_trial/6, error))
 ```
 ![](https://github.com/LukePileggi/unit1/blob/master/Fig.2.Comp.Idea.jpg?raw=true)
+This is an image tht shows what we think is inside the computer. We used our knowledge and research to make a good guess on each components' names and numbers.
