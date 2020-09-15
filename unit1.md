@@ -58,4 +58,4 @@ for trial in range(1000):
     error = c - num_trial/6
     print("Number of {}s: {}, expected {}, error {}".format(index+1,c, num_trial/6, error))
 ```
-Fig.2.Comp.Idea.jpg
+![](https://github.com/LukePileggi/unit1/blob/master/Fig.2.Comp.Idea.jpg?raw=true)
