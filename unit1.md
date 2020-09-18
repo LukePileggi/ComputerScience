@@ -22,10 +22,15 @@ T.E.L.O.S study: Technology, Economic, Legal, Organisational, Scheduling
 
 ## Criteria B: Design
 
+### System diagram
+
+### Flow diagram
+
+### Record of tasks
 | Task # | Planned action                                                                                        | Planned outcome                       | Time estimated | Target completion date | Criteria |
 |--------|-------------------------------------------------------------------------------------------------------|---------------------------------------|----------------|------------------------|----------|
 | 1      | Planning: Discuss the context of the situation. (Ideally this is the first interview with the client) | Write the context of the problem      | 15 min         | Sep 11                 | A        |
-| 2      | Design: Coded the a text-based system for some parts in the hardware store.                           | A working program that shows the menu | 80 min         | Sep  18th              | B        |
+| 2      | Development: Coded the a text-based system for some parts in the hardware store.                      | A working program that shows the menu | 80 min         | Sep  18th              | D        |
 | 3      |                                                                                                       |                                       |                |                        |          |
 
 ## Criteria C: Development
@@ -68,3 +73,6 @@ for trial in range(1000):
 ```
 ![](https://github.com/LukePileggi/unit1/blob/master/Fig.2.Comp.Idea.jpg?raw=true)
 This is an image tht shows what we think is inside the computer. We used our knowledge and research to make a good guess on each components' names and numbers.
+
+## Criteria D: 
+
