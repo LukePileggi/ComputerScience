@@ -20,7 +20,7 @@ T.E.L.O.S study: Technology, Economic, Legal, Organisational, Scheduling
 1. The application should allow to calculate the total and begining
 1. Secure application: It allows user login/authentication
 
-## Criteria b Design
+## Criteria B: Design
 
 | Task # | Planned action                                                                                        | Planned outcome                       | Time estimated | Target completion date | Criteria |
 |--------|-------------------------------------------------------------------------------------------------------|---------------------------------------|----------------|------------------------|----------|
