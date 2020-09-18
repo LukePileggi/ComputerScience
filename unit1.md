@@ -25,8 +25,8 @@ T.E.L.O.S study: Technology, Economic, Legal, Organisational, Scheduling
 | Task # | Planned action                                                                                        | Planned outcome                       | Time estimated | Target completion date | Criteria |
 |--------|-------------------------------------------------------------------------------------------------------|---------------------------------------|----------------|------------------------|----------|
 | 1      | Planning: Discuss the context of the situation. (Ideally this is the first interview with the client) | Write the context of the problem      | 15 min         | Sep 11                 | A        |
-|        | Development: Coded the a text-based system for some parts in the hardware store.                      | A working program that shows the menu | 80 min         | Sep  18th              | B        |
-|        |                                                                                                       |                                       |                |                        |          |
+| 2      | Design: Coded the a text-based system for some parts in the hardware store.                           | A working program that shows the menu | 80 min         | Sep  18th              | B        |
+| 3      |                                                                                                       |                                       |                |                        |          |
 
 ## Criteria C: Development
 
