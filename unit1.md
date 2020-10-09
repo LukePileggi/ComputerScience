@@ -74,6 +74,28 @@ for trial in range(1000):
 ![](https://github.com/LukePileggi/unit1/blob/master/Fig.2.Comp.Idea.jpg?raw=true)
 This is an image tht shows what we think is inside the computer. We used our knowledge and research to make a good guess on each components' names and numbers.
 
+The encryption code
+```.py
+# This code sorts each line & text in the file
+import random
+all_lines_of_db = open("database.txt", "r").readlines()
+items = all_lines_of_db[0].strip().split(",")
+prices = all_lines_of_db[1].strip().split(",")
+amount = all_lines_of_db[2].strip().split(",")
+
+# This part of the code encrypts the text in the file written above
+for line in all_lines_of_db:
+    encrypted_line = ""
+    len_line = len(line)
+    for letter in line:
+        # The coder is a random number that hides the actual information
+        coder = random.randint(-5,5)
+        encrypted_letter = chr(ord(letter) + coder)
+        encrypted_line += encrypted_letter
+    print('line length: {}, encryption: {}'.format(len_line, encrypted_line))
+    print("Decryption code:{}".format(coder))
+```
+
 ## Criteria D: Functionality
 
 ## Criteria E: Evaluation
