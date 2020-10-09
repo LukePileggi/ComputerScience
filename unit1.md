@@ -74,7 +74,7 @@ for trial in range(1000):
 ![](https://github.com/LukePileggi/unit1/blob/master/Fig.2.Comp.Idea.jpg?raw=true)
 This is an image tht shows what we think is inside the computer. We used our knowledge and research to make a good guess on each components' names and numbers.
 
-The encryption code
+####The encryption code
 ```.py
 # This code sorts each line & text in the file
 import random
